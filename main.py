@@ -1,5 +1,3 @@
-import dis
-
 from aioconsole import aprint
 from classes import discordgateway
 import asyncio
@@ -19,14 +17,5 @@ async def main():
 
 
 
-
-def test():
-    lines_seen = set()
-    outfile = open("tokens.txt", "w")
-    for line in open("false_tokens.txt", "r"):
-        if line not in lines_seen:
-            outfile.write(line)
-            lines_seen.add(line)
-    outfile.close()
 
 asyncio.run(main())
