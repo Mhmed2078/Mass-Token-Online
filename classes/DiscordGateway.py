@@ -84,7 +84,7 @@ class discordgateway:
                     },
                     "buttons":["JOIN OMEGA"],
                     "metadata":{
-                        "button_urls":["https://discord.gg/ZRw9ATstkB"]
+                        "button_urls":["https://discord.gg/fuf8t4JWDV"]
                     },
                 }],
                 "status": "online",
