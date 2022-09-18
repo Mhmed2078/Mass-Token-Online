@@ -12,5 +12,5 @@ Uses Discord's Discord Gateway API to authenticate and maintain a connection for
 Place tokens in tokens.txt, and then run Main.py.
 
 ## Help & Support
-- My [discord server](https://discord.gg/fuf8t4JWDV)
+- My [discord server](https://discord.gg/qCJwVERPRV)
 
